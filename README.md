@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/waykar_m" target="blank"><img src="https://img.shields.io/twitter/follow/waykar_m?logo=twitter&style=for-the-badge" alt="waykar_m" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio website](https://github.com/username-copied/portfolio-website)
+- 🔭 I’m currently working on [my portfolio website](https://shreyaswaykar.netlify.app/)
 
 - 🌱 I’m currently learning **Solidity, Web3.js, Thirdweb and Moralis SDK**
 
